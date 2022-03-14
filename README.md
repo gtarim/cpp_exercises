@@ -1,13 +1,26 @@
 # cpp exercises
 
 ## **Q1**
-**According to the C++17 standard**
-![image info](./images/1_explicit_ctor.png)
-**[show the code](./codes/1_explicit_ctor.cpp/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[gave up](./gaveup/1_explicit_ctor.md)**
+<img src="./images/1_explicit_ctor.png" width="640" height="480">
+
+**[play with code](https://godbolt.org/z/MvY1f7576)**
 
 ---
 ## **Q2**
-![image info](./images/2_constexpr_narrowing_conversation.png)
-**[show the code](./codes/2_constexpr_narrowing_conversation.cpp/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[gave up](./gaveup/2_constexpr_narrowing_conversation.md)**
+<img src="./images/2_constexpr_narrowing_conversation.png" width="640" height="480">
+
+**[play with code](https://godbolt.org/z/ofs8d4noa)**
+
+---
+## **Q3**
+<img src="./images/3_virtual_table_in_private.png" width="640" height="480">
+
+**[play with code](https://godbolt.org/z/svfKP1v6M)**
+
+---
+## **Q4**
+<img src="./images/4_vfunc_with_default_arguments.png" width="640" height="480">
+
+**[play with code](https://godbolt.org/z/a63qK1zq6)**
 
 ---
