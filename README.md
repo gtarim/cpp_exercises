@@ -1,7 +1,7 @@
 # cpp exercises
 
 ## **Q1**
-<img src="./images/1_explicit_ctor.png" width="640" height="400">
+<img src="./images/1_explicit_ctor.png" width="480" height="480">
 
 **[play with code](https://godbolt.org/z/MvY1f7576)**
 
