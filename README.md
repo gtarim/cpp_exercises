@@ -24,3 +24,21 @@
 **[play with code](https://godbolt.org/z/a63qK1zq6)**
 
 ---
+## **Q5**
+<img src="./images/5_inherit_override_func.png" width="480" height="480">
+
+**[play with code](https://godbolt.org/z/YjadYeenh)**
+
+---
+## **Q6**
+<img src="./images/6_using_usage_in_inherit.png" width="480" height="480">
+
+**[play with code](https://godbolt.org/z/hdahrxsa6)**
+
+---
+## **Q7**
+<img src="./images/7_virtual_functions.png" width="480" height="480">
+
+**[play with code](https://godbolt.org/z/zhGqnY9Go)**
+
+---
