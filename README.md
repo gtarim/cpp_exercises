@@ -48,3 +48,10 @@
 **[play with code](https://godbolt.org/z/xvdvq4nTx)**
 
 ---
+
+## **Q9**
+<img src="./images/9_noexcept_on_move.png" width="480" height="480">
+
+**[play with code](https://godbolt.org/z/TsGcev7Ez)**
+
+---
