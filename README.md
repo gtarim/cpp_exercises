@@ -42,3 +42,9 @@
 **[play with code](https://godbolt.org/z/zhGqnY9Go)**
 
 ---
+## **Q8**
+<img src="./images/8_capture_val_with_move.png" width="480" height="480">
+
+**[play with code](https://godbolt.org/z/xvdvq4nTx)**
+
+---
