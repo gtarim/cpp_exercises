@@ -1,6 +1,12 @@
 # cpp exercises
 
 
+## **Q10**
+<img src="./images/10_string_view_usage_like_copy_ellision.png" width="640" height="640">
+
+**[play with code](https://godbolt.org/z/Tabnh768r)**
+
+---
 ## **Q9**
 <img src="./images/9_noexcept_on_move.png" width="640" height="640">
 
