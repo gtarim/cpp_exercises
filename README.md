@@ -1,6 +1,12 @@
 # cpp exercises
 
 
+## **Q12**
+<img src="./images/12_multiple_inherit_call_function.png" width="540" height="540">
+
+**[play with code](https://godbolt.org/z/arhbczPdT)**
+
+---
 ## **Q11**
 <img src="./images/11_string_view_vs_string_ctor_with_literals.png" width="540" height="540">
 
