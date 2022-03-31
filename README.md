@@ -1,6 +1,12 @@
 # cpp exercises
 
 
+## **Q13**
+<img src="./images/13_template_friend_function.png" width="540" height="540">
+
+**[play with code](https://godbolt.org/z/rsz336ons)**
+
+---
 ## **Q12**
 <img src="./images/12_multiple_inherit_call_function.png" width="540" height="540">
 
