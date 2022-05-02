@@ -1,6 +1,12 @@
 # cpp exercises
 
 
+## **Q14**
+<img src="./images/14_enable_if_with_sfinae.png" width="540" height="540">
+
+**[play with code](https://godbolt.org/z/Pcb8MaGvc)**
+
+---
 ## **Q13**
 <img src="./images/13_template_friend_function.png" width="540" height="540">
 
